@@ -1,0 +1,10 @@
+---
+title: "index"
+format: html
+listing:
+  type: default
+  contents:
+    - "*/*.qmd"
+---
+
+index file here
